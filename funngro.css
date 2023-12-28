@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-color {
+    background-color: #13293D;
+    background-size: cover;
+    height: auto;
+    width: 100vw;
+}
+
+.heading {
+    color: #c1d5e8;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.paragraph-heading {
+    color: #c1d5e8;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px
+}
+
+.img-funngro {
+    height: 90%;
+    width: 70%;
+    padding: 10px;
+}
+
+.img-play-store {
+    height: 50px;
+    width: 320px;
+}
+
+.navbar-image {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
+
+.Teens-heading {
+    font-size: 66px;
+    padding: 10px;
+    margin: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+
+}
+
+.Teens-heading-para {
+    font-size: 26px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.easy_to_connect_container {
+    width: 80%;
+    z-index: 2;
+    min-height: 18rem;
+    color: #fff;
+    border-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 2rem 1.5rem;
+    padding-top: 2rem;
+    padding-right: 1.5rem;
+    padding-bottom: 2rem;
+    padding-left: 1.5rem;
+    transition: all .2s;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    position: relative;
+    margin: 20px;
+
+}
+
+.image {
+    width: 30%;
+
+}
+
+.text_align {
+    text-align: center;
+}
+
+.heading1 {
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 19px;
+    font-weight: 400;
+    color: grey;
+}
+
+.bold {
+    font-style: italic;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.companies-container {
+    width: 100%;
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+    background-image: url(https://assets-global.website-files.com/638b482…/638ddca…_Rectangle%20479.svg);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    transition: all .2s;
+    padding: 0px;
+}
+
+.company-heading {
+    color: white;
+    font-size: 22px;
+    font-family: 'Roboto';
+    font-weight: bold;
+
+
+}
+
+.images {
+    width: 70%;
+    height: 60%;
+}
+
+.images-contact {
+    height: 20%;
+    width: 20%;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+
+    align-items: center;
+
+    align-content: center;
+
+    justify-content: center;
+
+
+    line-height: 10%;
+
+    margin: auto;
+
+    left: 50%;
+
+    right: 50%;
+
+
+
+
+}
+
+.paragraph-contacts {
+    color: #c1d5e8;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px
+}
+
+.center {
+    text-align: center;
+}
